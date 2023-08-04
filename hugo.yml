@@ -1,0 +1,89 @@
+baseURL: "https://arkalim.org"
+languageCode: en-us
+title: Yasir's Digital Workspace
+theme: PaperMod
+
+params:
+  # theme
+  showToc: true
+  TocOpen: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  hideMeta: false
+  GithubUser: itsyaasir
+  env: production
+
+  # Home Page
+  profileMode:
+    enabled: true
+    title: "Yasir Shariff"
+    subtitle: Hi 👋! I'm Yasir
+    imageUrl: "./home/profile.jpeg"
+    imageWidth: 220
+    imageHeight: 220
+
+  # List View
+  hideDescriptionInList: false
+
+  # cover image for posts
+  cover:
+    hiddenInList: false # hide on list pages and home
+    hiddenInSingle: false # hide on single page
+
+  socialIcons:
+    - name: "email"
+      url: "mailto:yasir@shariff.dev"
+    - name: "linkedin"
+      url: "https://www.linkedin.com/in/itsyaasir"
+    - name: "github"
+      url: "https://github.com/itsyaasir"
+    - name: "twitter"
+      url: "https://twitter.com/itsyaasir"
+    - name: "cv"
+      url: ""
+
+  # text search
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
+
+menu:
+  main:
+    - identifier: home
+      name: Home
+      url: /
+      weight: 10
+    - identifier: blog
+      name: Blog
+      url: /blog
+      weight: 20
+    - identifier: projects
+      name: Projects
+      url: /projects
+      weight: 30
+    - identifier: experience
+      name: Experience
+      url: /experience
+      weight: 40
+    - identifier: search
+      name: Search
+      url: /search
+      weight: 50
+
+# for search using Fuse.js
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+# allow HTML in MD
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
