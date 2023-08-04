@@ -36,5 +36,5 @@ jobs:
           git add .
           git config user.name 'Yasir Shariff'
           git config user.email 'goodwonder5@gmail.com'
-          git commit -m '🚀 Caffeine + Code = This Commit ☕ '
+          git commit -m '🚀 Caffeine + Code = This Commit'
           git push
