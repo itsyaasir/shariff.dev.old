@@ -1,3 +1,12 @@
+---
+title: "Resume"
+description: "Yasir Shariff's Resume"
+dateString: 5th August 2023
+draft: false
+tags: ["resume", "cv"]
+weight: 103
+---
+
 # Resume - Yasir Shariff
 
 ## Career Objective
