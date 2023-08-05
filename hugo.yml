@@ -1,24 +1,66 @@
 baseURL: "https://shariff.dev"
 languageCode: en-us
-title: Yasir's Digital Workspace
+title: Yasir's Playground
 theme: PaperMod
+enableEmoji: true
+enableRobotsTXT: true
+enableGitInfo: true
+canonifyURLs: true
+paginate: 5
+summaryLength: 100
 
 params:
-  # theme
+  env: production
   showToc: true
   TocOpen: true
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
   hideMeta: false
   GithubUser: itsyaasir
-  env: production
+  mainSections:
+    - post
+  author: Yasir Shariff
+  title: Yasir's Playground
+  keyword:
+    - Blogs
+    - Gists
+  images:
+    - "https://www.gravatar.com/avatar/dcb52889deff3e5017a18de40c57add8?s=200"
+  DateFormat: "January 2, 2006"
+  defaultTheme: dark
+  disableThemeToggle: false
+  ShowFullTextinRSS: true
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: true
+  hidemeta: false
+  hideSummary: false
+  showtoc: true
+  tocopen: true
+  copyright: Yasir
+  since: "2023"
+  highlightjs: true
+  highlightjsstyle: github
+  UtterancesRepo: itsyaasir/shariff.dev
+  UtterancesIssueTerm: title
+  UtterancesTheme: github-light
+  toc: tocbot
+  assets:
+    favicon: /images/favicon.png
+    favicon16x16: /images/favicon.png
+    favicon32x32: /images/favicon.png
+    apple_touch_icon: /images/favicon.png
+    safari_pinned_tab: /images/favicon.png
 
   # Home Page
   profileMode:
     enabled: true
     title: "Yasir Shariff"
-    subtitle: Hi 👋! I'm Yasir
-    imageUrl: "./home/profile.jpeg"
+    subtitle: Hi 👋! I'm Yasir, I'm a software engineer based in Mombasa, Kenya. I'm passionate about building software that solves real world problems. I'm currently working on a few projects, and I'm always looking for new opportunities to learn and grow.
+    imageUrl: "/images/profile.jpeg"
     imageWidth: 220
     imageHeight: 220
 
@@ -40,7 +82,7 @@ params:
     - name: "twitter"
       url: "https://twitter.com/itsyaasir"
     - name: "cv"
-      url: ""
+      url: "/resume"
 
   # text search
   fuseOpts:
