@@ -9,6 +9,7 @@ canonifyURLs: true
 paginate: 5
 summaryLength: 100
 googleAnalytics: G-NZZ9SMGPFZ
+
 params:
   env: production
   showToc: true
