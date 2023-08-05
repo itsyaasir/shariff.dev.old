@@ -13,21 +13,14 @@ googleAnalytics: G-NZZ9SMGPFZ
 params:
   env: production
   showToc: true
-  TocOpen: true
+  TocOpen: false
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
   hideMeta: false
   GithubUser: itsyaasir
-  mainSections:
-    - post
   author: Yasir Shariff
   title: Yasir's Playground
-  keyword:
-    - Blogs
-    - Gists
-  images:
-    - "https://www.gravatar.com/avatar/dcb52889deff3e5017a18de40c57add8?s=200"
-  DateFormat: "January 2, 2006"
+  DateFormat: "January 2, 2023"
   defaultTheme: dark
   disableThemeToggle: false
   ShowFullTextinRSS: true
@@ -37,24 +30,17 @@ params:
   disableSpecial1stPost: false
   disableScrollToTop: false
   comments: true
-  hidemeta: false
   hideSummary: false
-  showtoc: true
-  tocopen: true
-  copyright: Yasir
-  since: "2023"
-  highlightjs: true
-  highlightjsstyle: github
-  UtterancesRepo: itsyaasir/shariff.dev
-  UtterancesIssueTerm: title
-  UtterancesTheme: github-light
-  toc: tocbot
 
   # Home Page
   profileMode:
     enabled: true
-    title: "Yasir Shariff"
-    subtitle: Hi 👋! I'm Yasir, I'm a software engineer based in Mombasa, Kenya. I'm passionate about building software that solves real world problems. I'm currently working on a few projects, and I'm always looking for new opportunities to learn and grow.
+    title: |
+      Yasir Shariff
+    subtitle: |
+      👋 Hello, I'm Yasir, a passionate software engineer based in  the beautiful city of Mombasa, Kenya. I thrive on creating software that addresses real-world challenges and makes a positive impact on people's lives. I specialize in developing Blockchain Systems, CLI tools, and software solutions that are both innovative and user-friendly. My strong problem-solving skills and keen eye for detail allow me to deliver robust and efficient solutions to complex challenges across various industries.
+      > 🌊 When I'm not immersed in coding, you'll find me enjoying my hobbies. I love swimming; it keeps me active, refreshed, and focused. Gaming is another passion of mine, providing an avenue for creative expression and mental agility. And, of course, I relish in diving into captivating movies and series that transport me to different worlds. Alongside my hobbies, I am always eager to embrace new opportunities to learn and grow as a professional. Staying up-to-date with the latest advancements in the software industry is essential to me. I believe in the power of continuous education, which allows me to stay ahead and deliver cutting-edge solutions.
+
     imageUrl: "/assets/images/profile.webp"
     imageWidth: 220
     imageHeight: 220
@@ -103,14 +89,10 @@ menu:
       name: Projects
       url: /projects
       weight: 30
-    - identifier: experience
-      name: Experience
-      url: /experience
-      weight: 40
     - identifier: search
       name: Search
       url: /search
-      weight: 50
+      weight: 40
 
 # for search using Fuse.js
 outputs:
