@@ -34,13 +34,58 @@
     </item>
     
     <item>
-      <title>Hello World!</title>
+      <title></title>
       <link>https://shariff.dev/resume/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://shariff.dev/resume/</guid>
-      <description>First post!</description>
-      <content:encoded><![CDATA[]]></content:encoded>
+      <description>Resume - Yasir Shariff Career Objective Passionate Coding Ninja with a goal to contribute to innovative projects and teams, utilizing excellent communication, interpersonal, and creative thinking skills to push the boundaries of technology.
+Work Experience Part-time Open Source Contributor - NEAR Protocol (July 2023 - Present) 🌐 Contributed to the development of NEAR Protocol. 📦 Working on the near-workspace-rs in Rust. Software Engineer - Bitfinity Network (May 2022 - Present) 🌌 Designed and built AMM protocol and Bitfinity Networking for liquidity provisioning and trade execution. 🛡️ Conducted extensive testing and auditing for security and reliability. 🌐 Implemented Bitfinity EVM architecture on the IC blockchain.</description>
+      <content:encoded><![CDATA[<h1 id="resume---yasir-shariff">Resume - Yasir Shariff</h1>
+<h2 id="career-objective">Career Objective</h2>
+<p>Passionate Coding Ninja with a goal to contribute to innovative projects and teams, utilizing excellent communication, interpersonal, and creative thinking skills to push the boundaries of technology.</p>
+<h2 id="work-experience">Work Experience</h2>
+<h3 id="part-time-open-source-contributor---near-protocolhttpsnearorg-july-2023---present">Part-time Open Source Contributor - <a href="https://near.org/">NEAR Protocol</a> (July 2023 - Present)</h3>
+<ul>
+<li>🌐 Contributed to the development of NEAR Protocol.</li>
+<li>📦 Working on the near-workspace-rs in Rust.</li>
+</ul>
+<h3 id="software-engineer---bitfinity-network-may-2022---present">Software Engineer - Bitfinity Network (May 2022 - Present)</h3>
+<ul>
+<li>🌌 Designed and built AMM protocol and Bitfinity Networking for liquidity provisioning and trade execution.</li>
+<li>🛡️ Conducted extensive testing and auditing for security and reliability.</li>
+<li>🌐 Implemented Bitfinity EVM architecture on the IC blockchain.</li>
+<li>📅 Delivered solutions within specified deadlines and engaged stakeholders.</li>
+</ul>
+<h3 id="software-engineer---bitwise-solutions-inc-march-2021---may-2022">Software Engineer - Bitwise Solutions, Inc. (March 2021 - May 2022)</h3>
+<ul>
+<li>📱 Led development of (Biashara Books) mobile POS app.</li>
+<li>💻 Contributed to various front-end and back-end projects.</li>
+<li>🎛️ Developed and maintained internal applications.</li>
+<li>🔧 Integrated user-friendly interfaces with internal systems.</li>
+<li>🗃️ Built a comprehensive Directory Management System.</li>
+</ul>
+<h3 id="rust-developer---launchai-dec-2021---march-2022">Rust Developer - LaunchAI (Dec 2021 - March 2022)</h3>
+<ul>
+<li>🚀 Delivered two projects as the sole Rust Developer.</li>
+<li>📦 Developed Stytch, a client-side library for code reusability.</li>
+<li>🌈 Utilized new technologies to drive innovation and improve performance.</li>
+<li>🌐 Developed API using Microservices Architecture for scalability.</li>
+</ul>
+<h2 id="education">Education</h2>
+<ul>
+<li>🎓 Bachelor of Science in Computer Science, <strong>Moi University</strong> (Year of Graduation: 2023)</li>
+</ul>
+<h2 id="relevant-skills">Relevant Skills</h2>
+<ul>
+<li>🦾 Proficient in <strong>Rust</strong>, <strong>Flutter</strong>, and <strong>Python</strong>.</li>
+<li>🧱 <strong>Blockchain Development</strong>: Solidity, Ethereum, DeFi (AMMs, Liquidity Pooling).</li>
+<li>🌐 <strong>Full-Stack Web Development</strong>: JavaScript, React, Node.js.</li>
+<li>🗃️ <strong>Database Management</strong>: PostgreSQL, MongoDB.</li>
+<li>🛠️ <strong>API Development</strong>: RESTful APIs, Microservices Architecture.</li>
+<li>🚀 Problem-solving, Analytical Thinking, and Communication.</li>
+</ul>
+]]></content:encoded>
     </item>
     
     
