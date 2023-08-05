@@ -48,15 +48,13 @@ params:
   UtterancesIssueTerm: title
   UtterancesTheme: github-light
   toc: tocbot
-  assets:
-    favicon: /assets/favicon.ico
 
   # Home Page
   profileMode:
     enabled: true
     title: "Yasir Shariff"
     subtitle: Hi 👋! I'm Yasir, I'm a software engineer based in Mombasa, Kenya. I'm passionate about building software that solves real world problems. I'm currently working on a few projects, and I'm always looking for new opportunities to learn and grow.
-    imageUrl: "./assets/images/profile.webp"
+    imageUrl: "/assets/images/profile.webp"
     imageWidth: 220
     imageHeight: 220
 
