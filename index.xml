@@ -82,6 +82,37 @@
 ]]></content:encoded>
     </item>
     
+    <item>
+      <title>Unorganised Thoughts</title>
+      <link>https://shariff.dev/notes/todo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://shariff.dev/notes/todo/</guid>
+      <description>Unorganised Thoughts</description>
+      <content:encoded><![CDATA[<h1 id="unorganised-thoughts">Unorganised Thoughts</h1>
+<p>This is a collection of unorganised thoughts that I have. I will try to organise them as I go along.</p>
+<h2 id="thoughts">Thoughts</h2>
+<ul>
+<li>Start writing blog posts</li>
+</ul>
+<p>Some of the things I want to write about:</p>
+<ul>
+<li>
+<p><input disabled="" type="checkbox"> How to build chat bots with Rust</p>
+</li>
+<li>
+<p><input disabled="" type="checkbox"> How to build a CLI with Rust</p>
+</li>
+<li>
+<p><input disabled="" type="checkbox"> How to build a web app with Rust</p>
+</li>
+<li>
+<p><input disabled="" type="checkbox"> How to store vectors in a database</p>
+</li>
+</ul>
+]]></content:encoded>
+    </item>
+    
     
   </channel>
 </rss>

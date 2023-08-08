@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>todo on Yasir&#39;s Playground</title>
+    <link>https://shariff.dev/tags/todo/</link>
+    <description>Recent content in todo on Yasir&#39;s Playground</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://shariff.dev/tags/todo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Unorganised Thoughts</title>
+      <link>https://shariff.dev/notes/todo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://shariff.dev/notes/todo/</guid>
+      <description>Unorganised Thoughts</description>
+      <content:encoded><![CDATA[<h1 id="unorganised-thoughts">Unorganised Thoughts</h1>
+<p>This is a collection of unorganised thoughts that I have. I will try to organise them as I go along.</p>
+<h2 id="thoughts">Thoughts</h2>
+<ul>
+<li>Start writing blog posts</li>
+</ul>
+<p>Some of the things I want to write about:</p>
+<ul>
+<li>
+<p><input disabled="" type="checkbox"> How to build chat bots with Rust</p>
+</li>
+<li>
+<p><input disabled="" type="checkbox"> How to build a CLI with Rust</p>
+</li>
+<li>
+<p><input disabled="" type="checkbox"> How to build a web app with Rust</p>
+</li>
+<li>
+<p><input disabled="" type="checkbox"> How to store vectors in a database</p>
+</li>
+</ul>
+]]></content:encoded>
+    </item>
+    
+  </channel>
+</rss>
