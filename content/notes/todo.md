@@ -24,3 +24,6 @@ Some of the things I want to write about:
 - [ ] How to build a web app with Rust
 
 - [ ] How to store vectors in a database
+
+- Start build Rust Projects
+- [ ] Hes - Cross-platform music player
