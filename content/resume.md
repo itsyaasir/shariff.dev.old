@@ -15,17 +15,17 @@ Passionate Coding Ninja with a goal to contribute to innovative projects and tea
 
 ## Work Experience
 
-### Part-time Open Source Contributor - [NEAR Protocol](https://near.org/) (July 2023 - Present)
-
-- 🌐 Contributed to the development of NEAR Protocol.
-- 📦 Working on the near-workspace-rs in Rust.
-
 ### Software Engineer - Bitfinity Network (May 2022 - Present)
 
 - 🌌 Designed and built AMM protocol and Bitfinity Networking for liquidity provisioning and trade execution.
 - 🛡️ Conducted extensive testing and auditing for security and reliability.
 - 🌐 Implemented Bitfinity EVM architecture on the IC blockchain.
 - 📅 Delivered solutions within specified deadlines and engaged stakeholders.
+
+### Fellowship at - [NEAR Protocol](https://near.org/) (July 2023 - Feb 2024)
+
+- 🌐 Contributed to the development of NEAR Protocol.
+- 📦 Working on the near-workspace-rs in Rust.
 
 ### Software Engineer - Bitwise Solutions, Inc. (March 2021 - May 2022)
 

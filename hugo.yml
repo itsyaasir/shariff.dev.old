@@ -38,8 +38,10 @@ params:
     title: |
       Yasir Shariff
     subtitle: |
-      👋 Hello, I'm Yasir, a passionate software engineer based in  the beautiful city of Mombasa, Kenya. I thrive on creating software that addresses real-world challenges and makes a positive impact on people's lives. I specialize in developing Blockchain Systems, CLI tools, and software solutions that are both innovative and user-friendly. My strong problem-solving skills and keen eye for detail allow me to deliver robust and efficient solutions to complex challenges across various industries.
-      > 🌊 When I'm not immersed in coding, you'll find me enjoying my hobbies. I love swimming; it keeps me active, refreshed, and focused. Gaming is another passion of mine, providing an avenue for creative expression and mental agility. And, of course, I relish in diving into captivating movies and series that transport me to different worlds. Alongside my hobbies, I am always eager to embrace new opportunities to learn and grow as a professional. Staying up-to-date with the latest advancements in the software industry is essential to me. I believe in the power of continuous education, which allows me to stay ahead and deliver cutting-edge solutions.
+
+      👋 I'm Yasir, a passionate software engineer from the scenic city of Mombasa, Kenya. My expertise lies in creating Blockchain Systems, CLI tools, and user-centric software solutions that address real-world problems. With a strong problem-solving aptitude and meticulous attention to detail, I excel in delivering robust and efficient solutions to complex challenges across diverse industries.
+
+      Check out my latest projects, blog posts, and notes. Feel free to reach out to me if you have any questions or just want to say hi!
 
     imageUrl: "/assets/images/profile.webp"
     imageWidth: 220
@@ -97,6 +99,10 @@ menu:
       name: Search
       url: /search
       weight: 50
+    - identifier: resume
+      name: Resume
+      url: /resume
+      weight: 60
 
 # for search using Fuse.js
 outputs:
