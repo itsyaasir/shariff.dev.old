@@ -5,12 +5,12 @@
     <link>https://shariff.dev/tags/cv/</link>
     <description>Recent content in cv on Yasir&#39;s Playground</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://shariff.dev/tags/cv/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <atom:link href="https://shariff.dev/tags/cv/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Resume</title>
       <link>https://shariff.dev/resume/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://shariff.dev/resume/</guid>
       <description>Yasir Shariff&amp;#39;s Resume</description>
       <content:encoded><![CDATA[<h1 id="resume---yasir-shariff">Resume - Yasir Shariff</h1>
@@ -59,6 +59,5 @@
 </ul>
 ]]></content:encoded>
     </item>
-    
   </channel>
 </rss>

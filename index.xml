@@ -5,34 +5,29 @@
     <link>https://shariff.dev/</link>
     <description>Recent content on Yasir&#39;s Playground</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://shariff.dev/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <atom:link href="https://shariff.dev/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello World!</title>
       <link>https://shariff.dev/blog/hello-world/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://shariff.dev/blog/hello-world/</guid>
       <description>First post!</description>
-      <content:encoded><![CDATA[]]></content:encoded>
     </item>
-    
     <item>
       <title>Hello World!</title>
       <link>https://shariff.dev/projects/hello-world/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://shariff.dev/projects/hello-world/</guid>
       <description>First post!</description>
       <content:encoded><![CDATA[<h1 id="hello-world">Hello World</h1>
 <p>This is my first post!</p>
 ]]></content:encoded>
     </item>
-    
     <item>
       <title>Resume</title>
       <link>https://shariff.dev/resume/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://shariff.dev/resume/</guid>
       <description>Yasir Shariff&amp;#39;s Resume</description>
       <content:encoded><![CDATA[<h1 id="resume---yasir-shariff">Resume - Yasir Shariff</h1>
@@ -81,12 +76,10 @@
 </ul>
 ]]></content:encoded>
     </item>
-    
     <item>
       <title>Unorganised Thoughts</title>
       <link>https://shariff.dev/notes/todo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://shariff.dev/notes/todo/</guid>
       <description>Unorganised Thoughts</description>
       <content:encoded><![CDATA[<h1 id="unorganised-thoughts">Unorganised Thoughts</h1>
@@ -118,7 +111,5 @@
 </ul>
 ]]></content:encoded>
     </item>
-    
-    
   </channel>
 </rss>

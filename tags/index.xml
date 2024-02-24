@@ -5,86 +5,63 @@
     <link>https://shariff.dev/tags/</link>
     <description>Recent content in Tags on Yasir&#39;s Playground</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://shariff.dev/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <atom:link href="https://shariff.dev/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>cv</title>
       <link>https://shariff.dev/tags/cv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://shariff.dev/tags/cv/</guid>
       <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
     </item>
-    
     <item>
       <title>Hello</title>
       <link>https://shariff.dev/tags/hello/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://shariff.dev/tags/hello/</guid>
       <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
     </item>
-    
     <item>
       <title>resume</title>
       <link>https://shariff.dev/tags/resume/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://shariff.dev/tags/resume/</guid>
       <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
     </item>
-    
     <item>
       <title>thoughts</title>
       <link>https://shariff.dev/tags/thoughts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://shariff.dev/tags/thoughts/</guid>
       <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
     </item>
-    
     <item>
       <title>todo</title>
       <link>https://shariff.dev/tags/todo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://shariff.dev/tags/todo/</guid>
       <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
     </item>
-    
     <item>
       <title>unorganised</title>
       <link>https://shariff.dev/tags/unorganised/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://shariff.dev/tags/unorganised/</guid>
       <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
     </item>
-    
     <item>
       <title>unorganised-thoughts</title>
       <link>https://shariff.dev/tags/unorganised-thoughts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://shariff.dev/tags/unorganised-thoughts/</guid>
       <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
     </item>
-    
     <item>
       <title>World</title>
       <link>https://shariff.dev/tags/world/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://shariff.dev/tags/world/</guid>
       <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
     </item>
-    
   </channel>
 </rss>
